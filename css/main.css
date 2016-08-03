@@ -1,0 +1,8 @@
+.one{background-color:green;
+           margin:0 auto;}
+/*for logo*/
+.logo>img{float:right;
+}
+/*for nav bar*/
+.container-fluid navbar-default{margin:10px;}
+
